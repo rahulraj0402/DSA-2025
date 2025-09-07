@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97350fb-07bd-451a-a682-e93c1480d577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/easy/DSA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/easy/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/easy/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/easy/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +43,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.SinglyLinkedList">
     <configuration name="DSA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.easy.DSA" />
-      <module name="Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.easy.LinearSearch" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
@@ -88,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseANumber" />
-      <module name="Questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RotatedBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.easy.RotatedBinarySearch" />
       <module name="Questions" />
@@ -108,13 +83,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SinglyLinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.SinglyLinkedList" />
+      <module name="Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.SinglyLinkedList" />
+      <module name="Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinglyLinkedList" />
+        <item itemvalue="Application.SinglyLinkedList (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DSA" />
         <item itemvalue="Application.RotatedBinarySearch" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.ReverseANumber" />
       </list>
     </recent_temporary>
   </component>
