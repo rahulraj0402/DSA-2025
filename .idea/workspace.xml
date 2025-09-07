@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97350fb-07bd-451a-a682-e93c1480d577" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/easy/DSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/easy/RotatedBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/recursion/easy/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/easy/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +48,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LinearSearch">
-    <configuration name="BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.easy.BS" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DSA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.easy.DSA" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
@@ -69,19 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseANumber" />
-      <module name="Questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.easy.SumOfDigits" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList.Main" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.easy.*" />
+          <option name="PATTERN" value="DoublyLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="productOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.easy.productOfDigits" />
+    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseANumber" />
+      <module name="Questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotatedBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.easy.RotatedBinarySearch" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DSA" />
+        <item itemvalue="Application.RotatedBinarySearch" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.ReverseANumber" />
-        <item itemvalue="Application.productOfDigits" />
-        <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.BS" />
       </list>
     </recent_temporary>
   </component>
